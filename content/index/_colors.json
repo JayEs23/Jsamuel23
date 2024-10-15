@@ -1,14 +1,21 @@
 {
 	"dark": {
-		"mesh__primaryDark": 	"#05070a",
-		"mesh__primaryLight": 	"#07130f",
-		"mesh__secondaryDark": 	"#080608",
-		"mesh__secondaryLight": "#090408"
+	  "mesh__primaryDark": "#1a1a2e",
+	  "mesh__primaryLight": "#16213e",
+	  "mesh__secondaryDark": "#0f3460",
+	  "mesh__secondaryLight": "#533483"
 	},
 	"light": {
-
+	  "mesh__primaryDark": "#e4e4f2",
+	  "mesh__primaryLight": "#f5f5fa",
+	  "mesh__secondaryDark": "#b8c1ec",
+	  "mesh__secondaryLight": "#a3bffa"
 	},
 	"unicorn": {
-		
+	  "mesh__primaryDark": "#ff69b4",
+	  "mesh__primaryLight": "#ffb6c1",
+	  "mesh__secondaryDark": "#9370db",
+	  "mesh__secondaryLight": "#87ceeb"
 	}
-}
+  }
+  

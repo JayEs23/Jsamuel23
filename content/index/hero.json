@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
+		"start": "const Samuel = ( name, passion ) =>",
+		"end": "Hello there, I'm",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -11,22 +11,22 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "Samuel U. John.",
+		"usp": "I lead and architect innovative software solutions."
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "I am a versatile software engineer and technical architect with a passion for building systems that solve real-world problems. I lead teams, design scalable architectures, and oversee projects from conception to deployment, always focused on creating impactful, lasting solutions.",
 
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "",
+			"url": "https://jsamuel23.vercel.app",
 			"leaveSite": false
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "",
-			"leaveSite": "true"
+			"url": "https://www.linkedin.com/in/samuel-john964/",
+			"leaveSite": true
 		}
 	}
 }

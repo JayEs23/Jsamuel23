@@ -1,19 +1,19 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
+			"person": "Bolaji Onibudo",
 			"link": "",
-			"note": "Thank you for all the advice and feedback."
+			"note": "Thank you for all the opportunities, advice and feedback."
 		},
 		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
+			"person": "AbdulHakeem - Agba Designer",
+			"link": "",
+			"note": "Checkout their amazing designs."
 		},
 		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
+			"person": "Ajala John - Software Engineer",
+			"link": "",
+			"note": "A major inspiration to pursue my personal software goals."
 		},
 		{ 
 			"person": "Vercel - Platform",
@@ -24,28 +24,42 @@
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "Niftyrow Marketplace",
+			"link": "https://www.niftyrow.io/",
+			"note": "NIfty Row is revolutionizing the art market with the blockchain by eliminating the issues of authenticity, counterfeits, trust and provenance of art"
+		},
+		{ 
+			"person": "Reasns Platforms",
+			"link": "https://www.reasns.com/",
+			"note": "REASNS is a 3 in one platform that connects you with an affordable and professional online therapy or connects you with an intentional friend or a serious partner."
+		},
+		{ 
+			"person": "FidemIt Escrow Services",
+			"link": "https://www.fidemit.com/",
+			"note": "Safeguarding Your Transactions, Empowering Your Confidence"
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
+			"url": "https://medium.com/@jsamuel2580",
 			"icon": "medium"
 		},
 		{
-			"url": "https://dev.to/andrewnelson",
+			"url": "https://dev.to/jayes23",
 			"icon": "dev"
 		},
 		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/samuel-john964/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/JayEs23",
 			"icon": "github"
+		},
+		{
+			"url": "https://x.com/Jay_Es23",
+			"icon": "twitter"
 		}
 	]
 }

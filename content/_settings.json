@@ -1,15 +1,15 @@
 {
-	"name": "Andrew Nelson",
+	"name": "Samuel U. John",
 	"logo": "",
 	
 	"username": {
-		"github": "atlamors",
-		"medium": "@--andrewnelson"
+		"github": "JayEs23",
+		"medium": "@Jsamuel2580"
 	},
 
 	"portfolio": { 
-		"forkthis": "Steal this theme! Its open-source 🥰",
-		"repo_html": "https://www.github.com/atlamors/portfolio",
-		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+		"forkthis": "Check me out on Github 🥰",
+		"repo_html": "https://www.github.com/jaye23/jayes23",
+		"repo_api": "https://api.github.com/repos/jayes23/jayes23"
 	}
 }
